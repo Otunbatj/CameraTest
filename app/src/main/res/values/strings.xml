@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraTest</string>
+    <string name="permission_camera_neverask">You wouldn\'t use this permission again</string>
+    <string name="permission_camera_denied">Camera permission denied, you wouldn\'t be able to use this feature</string>
+    <string name="button_allow">Allow</string>
+    <string name="button_deny">Deny</string>
+    <string name="permission_phone_rationale">Camera permission is needed to take customer picture on account opening</string>
+</resources>
